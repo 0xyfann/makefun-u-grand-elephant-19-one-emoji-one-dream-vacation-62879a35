@@ -1,0 +1,10 @@
+Pick the single emoji that most makes a stranger want to book a dream
+vacation, judged as a wordless postcard: it must plainly name a dream
+vacation, evoke the trip vividly at a glance, feel personal and specific
+rather than generic, carry a spark of wit or surprise, and read instantly
+across cultures and screens.
+
+My pick: the desert island (U+1F3DD) — the classic escape fantasy, a lone
+palm island in open sea. Write it with no variation selector so the entry
+is exactly one code point (1 character, 4 bytes UTF-8), keeping the file
+minimal for the byte-count tie-break.
